@@ -74,7 +74,6 @@ The website, documents, posters, audiovisual material, 3D environments, and VR e
 ## 📂 Project Documentation
 
 - [Development Documentation](Development/DEVELOPMENT.md)
-- [Script](SCRIPT.pdf)
 - [Presentation](PRESENTATION.pdf)
 - [Downloads](Trailer/DOWNLOADS.md)
 
